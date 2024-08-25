@@ -15,3 +15,7 @@ npm install expo-image-picker
 npm install react-native-view-shot expo-media-library
 
 npm install dom-to-image
+
+npm install nativewind
+
+npm install -D tailwindcss@3.3.2
